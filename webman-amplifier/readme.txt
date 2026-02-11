@@ -5,7 +5,7 @@ Donate link:       https://www.webmandesign.eu/contact/#donation
 Author URI:        https://www.webmandesign.eu
 Plugin URI:        https://github.com/webmandesign/webman-amplifier
 Requires at least: 6.0
-Tested up to:      6.8
+Tested up to:      6.9
 Requires PHP:      7.0
 Stable tag:        1.5.12
 License:           GPL-3.0-or-later
